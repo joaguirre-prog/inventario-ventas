@@ -17,7 +17,7 @@ if ($accion == 'crear') {
 //editar
 } elseif ($accion == 'editar') {
     $controller->editar($_GET['id']);
-
+//actualizar
 } elseif ($accion == 'actualizar') {
     $controller->actualizar($_POST);
 //ventas
