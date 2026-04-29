@@ -20,7 +20,7 @@ if ($accion == 'crear') {
 
 } elseif ($accion == 'actualizar') {
     $controller->actualizar($_POST);
-
+//ventas
 } elseif ($accion == 'ventas') {
     $controller->ventas();
 
