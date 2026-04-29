@@ -4,7 +4,7 @@
 
 Sistema web desarrollado en PHP con arquitectura MVC que permite gestionar productos y realizar ventas con control de stock.
 
----
+
 
 ##  Funcionalidades
 
@@ -15,7 +15,7 @@ Sistema web desarrollado en PHP con arquitectura MVC que permite gestionar produ
 * Módulo de ventas
 * Control de stock automático
 
----
+
 
 ##  Requisitos
 
@@ -23,7 +23,7 @@ Sistema web desarrollado en PHP con arquitectura MVC que permite gestionar produ
 * XAMPP / WAMP / Laragon
 * Navegador web
 
----
+
 
 ##  Instalación
 
@@ -57,7 +57,7 @@ Con el siguiente contenido:
 http://localhost/inventario-ventas/public/
 ```
 
----
+
 
 ##  Capturas del sistema
 
@@ -74,7 +74,7 @@ http://localhost/inventario-ventas/public/
 
 (Aquí agregar captura)
 
----
+
 
 ## Usuario de prueba
 
@@ -90,7 +90,7 @@ El sistema sigue el patrón MVC:
 * Vista: Interfaz de usuario
 * Controlador: Lógica del sistema
 
----
+
 
 ##  Autor
 
