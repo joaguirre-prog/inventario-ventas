@@ -26,7 +26,7 @@ if ($accion == 'crear') {
 
 } elseif ($accion == 'procesarVenta') {
     $controller->procesarVenta($_POST);
-
+//listar
 } else {
     $controller->listar();
 }
