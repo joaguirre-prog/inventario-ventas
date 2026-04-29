@@ -8,7 +8,7 @@ require_once "../app/controllers/ProductoController.php";
 $controller = new ProductoController();
 
 $accion = $_GET['accion'] ?? 'listar';
-
+//crear
 if ($accion == 'crear') {
     $controller->crear($_POST);
 
