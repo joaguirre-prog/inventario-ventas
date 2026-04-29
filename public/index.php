@@ -14,7 +14,7 @@ if ($accion == 'crear') {
 
 } elseif ($accion == 'eliminar') {
     $controller->eliminar($_GET['id']);
-
+//editar
 } elseif ($accion == 'editar') {
     $controller->editar($_GET['id']);
 
