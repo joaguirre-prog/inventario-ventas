@@ -1,4 +1,4 @@
-# 🧾 Sistema de Inventario y Ventas
+#  Sistema de Inventario y Ventas
 
 ##  Descripción
 
@@ -6,7 +6,7 @@ Sistema web desarrollado en PHP con arquitectura MVC que permite gestionar produ
 
 ---
 
-## ⚙️ Funcionalidades
+##  Funcionalidades
 
 * Crear productos
 * Listar productos
