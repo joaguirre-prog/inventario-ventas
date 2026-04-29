@@ -1,0 +1,12 @@
+[
+    {
+        "nombre": "laptop ",
+        "precio": "500",
+        "stock": "6"
+    },
+    {
+        "nombre": "mouse",
+        "precio": "5",
+        "stock": "12"
+    }
+]
